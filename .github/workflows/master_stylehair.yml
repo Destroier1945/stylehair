@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'stylehair'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e04fe9f89f294ce99d54f5d5b3c9e211 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a501b336788848f1b5ea5a1124032287 }}
         package: .
